@@ -24,8 +24,8 @@ def quickSort(list, l, h):
         quickSort(list, pi + 1, h)
 import random
 data = []
-for i in range(8):
-    #x=random.randrange(0, 30033)
+for i in range(4902939):
+    #x=random.randrange(0, 500000339783)
     data.append(i)
 
  
